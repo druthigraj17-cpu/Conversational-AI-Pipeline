@@ -1,1 +1,5 @@
-
+faster-whisper
+transformers
+accelerate
+torch
+gtts
